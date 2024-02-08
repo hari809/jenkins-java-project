@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>1.2.2</version>
 	<name>Java Home myweb</name>
-	<url>http://maven.apache.org</url>
+	<url>https://maven.apache.org</url>
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
@@ -43,7 +43,7 @@
 	    <pluginRepository>    
 		<id>maven1</id>
 		<name>Maven.org</name>
-		<url>http://repo1.maven.org/maven2</url>
+		<url>https://repo1.maven.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>
 
